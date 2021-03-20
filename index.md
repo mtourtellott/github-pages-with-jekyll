@@ -1,3 +1,3 @@
-# Welcome to my blog
+# We are making a Blog!
 
-I'm glad you are here. I plan to talk about ...
+This might take a while.
